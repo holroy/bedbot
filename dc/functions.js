@@ -24,6 +24,7 @@ module.exports = (client) => {
   };
 
   /*
+  //TODO: Should guild settings function move to `functions.js`?
   GUILD SETTINGS FUNCTION
   This function merges the default settings (from config.defaultSettings) with any
   guild override you might have for particular guild. If no overrides are present,
