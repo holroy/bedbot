@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 config.json
 config.js
+.config.js
 data/
 test.js
 baseindex.js
@@ -61,3 +62,7 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# temporary files
+tmp*
+RegexLibrary*
